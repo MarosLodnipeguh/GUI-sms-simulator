@@ -7,6 +7,6 @@
 
 <h1 align="center">
   <div>
-    <img width="1000" src="https://raw.githubusercontent.com/MarosLodnipeguh/GUI-java-applications/master/GUI%20Project%203%20-%20SMS/sms.png" alt="" />
+    <img width="1000" src="https://raw.githubusercontent.com/MarosLodnipeguh/GUI-sms-simulator/master/sms.png" alt="" />
   </div>
 </h1>
